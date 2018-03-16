@@ -1,5 +1,5 @@
 # SCHParticle_swift
-This is swift library showing cool particle on the screen. The library is receiving UIImageView paramater. You can customized UIImageView shap and add it as parameter to create a cool particle flying.
+This is a swift library showing cool particle on the screen. The library receive UIImageView as parameter . You can customized UIImageView shape and add it as parameter to create a cool particle flying. 
 
 This project is dedicated for "អូនស្អាតរបស់បង"
 
